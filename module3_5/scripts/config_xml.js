@@ -1,0 +1,54 @@
+var TSC = TSC || {};
+
+TSC.embedded_config_xml = '<x:xmpmeta tsc:version="2.0.1" xmlns:x="adobe:ns:meta/" xmlns:tsc="http://www.techsmith.com/xmp/tsc/">\
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/" xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:tscDM="http://www.techsmith.com/xmp/tscDM/" xmlns:tscIQ="http://www.techsmith.com/xmp/tscIQ/" xmlns:tscHS="http://www.techsmith.com/xmp/tscHS/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#" xmlns:exif="http://ns.adobe.com/exif/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/">\
+      <rdf:Description dc:date="2024-11-15 09:38:29 AM" dc:source="Camtasia,9.0.4,enu" dc:title="module2_5" tscDM:firstFrame="module2_5_First_Frame.png" tscDM:originId="67823403-5526-4B23-8647-20BF45EAEF59" tscDM:project="module2_5">\
+         <xmpDM:duration xmpDM:scale="1/1000" xmpDM:value="95033"/>\
+         <xmpDM:videoFrameSize stDim:unit="pixel" stDim:h="900" stDim:w="1416"/>\
+         <tsc:langName>\
+            <rdf:Bag>\
+               <rdf:li xml:lang="en-US">English</rdf:li></rdf:Bag>\
+         </tsc:langName>\
+         <xmpDM:Tracks>\
+            <rdf:Bag>\
+               <rdf:li>\
+                  <rdf:Description xmpDM:trackType="Caption" xmpDM:frameRate="f1000" xmpDM:trackName="Captioning" stFnt:fontFamily="Arial" tscDM:fontSize="23" tscDM:bgOpacity="0.750000" tscDM:position="overlay">\
+                     <xmpDM:markers>\
+                        <rdf:Seq>\
+                           <rdf:li><rdf:Description xmpDM:duration="7000" xmpDM:startTime="0" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 Việc hiểu các đặc điểm tính cách chung của nạn nhân và kẻ bắt nạt chỉ là bước đầu tiên để nhận diện}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="2000" xmpDM:startTime="7000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 sự hiện diện của việc bắt nạt.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="4000" xmpDM:startTime="9000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 Mặc dù những quan sát này hữu ích, nhưng chúng không cung cấp đủ bằng chứng để biết chắc chắn rằng}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="3000" xmpDM:startTime="13000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 việc bắt nạt đang diễn ra.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="4000" xmpDM:startTime="16000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 Khi bạn tin rằng có thể đang có hành vi bắt nạt, có một số hành động bạn có thể thực hiện để}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="2000" xmpDM:startTime="20000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 kiểm chứng điều đó.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="5000" xmpDM:startTime="22000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 Hãy ưu tiên hỏi các giáo viên và nhân viên khác về những gì họ đã quan sát được và}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="4000" xmpDM:startTime="27000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 chia sẻ những quan sát và lo ngại của bạn.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="6000" xmpDM:startTime="31000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 Những nhân viên giám sát nhà ăn, giờ ra chơi, hoặc lúc tan học có thể có những thông tin quý giá}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="4000" xmpDM:startTime="37000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 giúp vẽ nên một bức tranh chi tiết hơn.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="3000" xmpDM:startTime="41000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 Liên hệ với phụ huynh có thể là một bước hữu ích.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="5000" xmpDM:startTime="44000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 Học sinh bị bắt nạt có thể không nói với bạn về điều đó, nhưng có thể chia sẻ mối lo ngại với phụ huynh của \\par mình.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="1000" xmpDM:startTime="49000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 Điều này cũng quan trọng để giữ cho}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="6000" xmpDM:startTime="50000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 tất cả các phụ huynh của học sinh của bạn được thông báo về bất kỳ lo ngại nào bạn có thể có.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="1000" xmpDM:startTime="56000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 Cuối cùng, có thể hữu ích khi}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="6000" xmpDM:startTime="57000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 phát một bảng câu hỏi ẩn danh để thu thập ý kiến từ học sinh về sự phổ biến của bắt nạt trong trường.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="4000" xmpDM:startTime="63000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 Những học sinh không muốn nói trực tiếp về bắt nạt giữa các bạn có thể}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="5000" xmpDM:startTime="67000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 mở lòng hơn khi trả lời bảng câu hỏi ẩn danh.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="2000" xmpDM:startTime="72000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 Khi thực hiện khảo sát, hãy chắc chắn rằng học sinh}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="5000" xmpDM:startTime="74000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 hiểu rõ khái niệm về bắt nạt.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="1000" xmpDM:startTime="79000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 Hãy giảng dạy về bắt nạt và đưa ra các tiêu chí về bắt nạt trên bảng câu hỏi.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="6000" xmpDM:startTime="80000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 Hãy xem một số câu mẫu từ bảng câu hỏi về sự phổ biến của bắt nạt được sử dụng rộng rãi.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="7533" xmpDM:startTime="86000" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\\rtf1 Hãy xem một số câu hỏi mẫu từ bảng câu hỏi về sự phổ biến của bắt nạt được sử dụng rộng rãi.\\par }</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li></rdf:Seq>\
+                     </xmpDM:markers>\
+                     <tsc:fgColor xmpG:red="255" xmpG:green="255" xmpG:blue="255"/><tsc:bgColor xmpG:red="0" xmpG:green="0" xmpG:blue="0"/></rdf:Description>\
+               </rdf:li>\
+               <rdf:li>\
+                  <rdf:Description xmpDM:trackType="Hotspot" xmpDM:frameRate="f1000" xmpDM:trackName="Hotspots">\
+                     <xmpDM:markers>\
+                        <rdf:Seq>\
+                           <rdf:li><rdf:Description xmp:label="1" xmpDM:startTime="90030" xmpDM:duration="5000" tscDM:boundingPoly="515,744;1041,744;1041,868;515,868;" tscDM:rotate="0.000000" tscHS:pause="1" xmpDM:location="https://forms.gle/B87MjkDU7mRhwrUJA" tscHS:newWindow="1"/></rdf:li></rdf:Seq>\
+                     </xmpDM:markers>\
+                  </rdf:Description>\
+               </rdf:li>\
+            </rdf:Bag>\
+         </xmpDM:Tracks>\
+         <tscDM:controller>\
+            <rdf:Description xmpDM:name="tscplayer">\
+               <tscDM:parameters>\
+                  <rdf:Bag>\
+                     <rdf:li xmpDM:name="autohide" xmpDM:value="true"/><rdf:li xmpDM:name="autoplay" xmpDM:value="false"/><rdf:li xmpDM:name="loop" xmpDM:value="false"/><rdf:li xmpDM:name="searchable" xmpDM:value="true"/><rdf:li xmpDM:name="captionsenabled" xmpDM:value="false"/><rdf:li xmpDM:name="sidebarenabled" xmpDM:value="false"/><rdf:li xmpDM:name="unicodeenabled" xmpDM:value="false"/><rdf:li xmpDM:name="backgroundcolor" xmpDM:value="000000"/><rdf:li xmpDM:name="sidebarlocation" xmpDM:value="left"/><rdf:li xmpDM:name="endaction" xmpDM:value="stop"/><rdf:li xmpDM:name="endactionparam" xmpDM:value="true"/><rdf:li xmpDM:name="locale" xmpDM:value="en-US"/></rdf:Bag>\
+               </tscDM:parameters>\
+               <tscDM:controllerText>\
+                  <rdf:Bag>\
+                  </rdf:Bag>\
+               </tscDM:controllerText>\
+            </rdf:Description>\
+         </tscDM:controller>\
+         <tscDM:contentList>\
+            <rdf:Description>\
+               <tscDM:files>\
+                  <rdf:Seq>\
+                     <rdf:li xmpDM:name="0" xmpDM:value="module2_5.mp4"/><rdf:li xmpDM:name="1" xmpDM:value="module2_5.zip"/><rdf:li xmpDM:name="2" xmpDM:value="module2_5_First_Frame.png"/></rdf:Seq>\
+               </tscDM:files>\
+            </rdf:Description>\
+         </tscDM:contentList>\
+      </rdf:Description>\
+   </rdf:RDF>\
+</x:xmpmeta>';
